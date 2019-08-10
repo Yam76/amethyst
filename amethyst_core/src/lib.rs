@@ -44,6 +44,7 @@ pub use self::{
 };
 
 pub mod bundle;
+pub mod deferred_dispatcher_operation;
 pub mod frame_limiter;
 pub mod timing;
 pub mod transform;
